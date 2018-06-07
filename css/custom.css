@@ -1,0 +1,30 @@
+#organized {
+    background: none repeat scroll 0 0 #f7f7f7;
+    border-bottom: 1px solid #f0f0f0;
+    border-top: 1px solid #f0f0f0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.grey {
+    background: none repeat scroll 0 0 #f7f7f7;
+    border-bottom: 1px solid #f0f0f0;
+    border-top: 1px solid #f0f0f0;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.white {
+    background: none repeat scroll 0 0 #ffffff;
+    border-bottom: 1px solid #f0f0f0;
+    border-top: 1px solid #f0f0f0;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.img-circle{
+	border-radius:50%
+}
